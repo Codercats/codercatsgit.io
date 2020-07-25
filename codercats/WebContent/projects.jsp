@@ -10,6 +10,6 @@
 <title>Codercats</title>
 </head>
 <body>
-<div class="intro">Hello, welcome to Codercats, again!</div>
+<div class="title">Hello, welcome to Codercats, again!</div>
 </body>
 </html>
