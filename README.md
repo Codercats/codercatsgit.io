@@ -12,3 +12,5 @@ UX changes
 - Create login and register pages.
 - Download Oracle10g
 - Create tables for members, projects, files, codes, and reports.
+- Add PDF box editor to a code editor page (see doc)
+- Add analysis plugins for each analysis page (see doc).
