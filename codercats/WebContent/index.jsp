@@ -494,6 +494,8 @@
       </div>
       <!-- End of Main Content -->
 
+
+ <!-- Replace with a footer.jsp-->
       <!-- Footer -->
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
