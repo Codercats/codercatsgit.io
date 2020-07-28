@@ -6,7 +6,9 @@ UI changes to do:
 - Apply header.jsp and sidebar.jsp to all pages.
 - Update page file names to suit the prototype file structure (see doc)
 - Update sidebar menu to match prototype
+- Add logo
 
 UX changes
+- Create login and register pages.
 - Download Oracle10g
 - Create tables for members, projects, files, codes, and reports.
